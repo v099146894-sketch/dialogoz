@@ -1,2 +1,16 @@
 # dialogoz
-Asistente de IA para explorar la filosofía. Responde preguntas sobre autores, conceptos y dilemas, recomienda lecturas y ayuda en el estudio crítico. Ideal para estudiantes, docentes y curiosos que buscan profundizar en el pensamiento filosófico.
+Dialogoz es un asistente filosófico básico escrito en Python.
+
+## ¿Cómo usarlo?
+
+1. Descarga el repositorio
+2. Abre una terminal o consola
+3. Ejecuta el archivo principal con el comando:
+   ```
+   python main.py
+   ```
+4. Escribe tu pregunta filosófica y recibe una respuesta.
+
+## Licencia
+
+MIT
